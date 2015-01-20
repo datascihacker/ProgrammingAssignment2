@@ -2,7 +2,8 @@
 ## functions do
 
 ## These 2 functions are used to provide functions to cache a matrix and
-## to compute and cache its inverse.
+## to compute and cache its inverse. If the result is already cached and the
+## matrix is unchanged just the cached result is returned in the 2nd function.
 
 ## Write a short comment describing this function
 
